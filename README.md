@@ -67,4 +67,4 @@ These insights help Dystopia’s stores stay ahead in a challenging retail world
 - **Version Control**: Git, GitHub
 
 ## ER Diagram
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](images/er_diagram.jpg)
