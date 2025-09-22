@@ -21,15 +21,13 @@ These insights help the hospital improve patient care, operational efficiency, a
 1. **What You’ll Need**:
    - PostgreSQL (running on port 5432).
    - Python 3.12 with `pandas`, `sqlalchemy`, and `psycopg2-binary`.
-   - Grocery Sales Database CSV files (download from Kaggle: https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset).
-   - Apache Superset (for future visualizations).
+   - Hospital Management Dataset CSV files (download from Kaggle: https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset).
 
 2. **Setup Steps**:
    - Clone the repo: ``git clone https://github.com/Zikaal/dystopia.git``
    - Install dependencies: `pip install -r requirements.txt`
    - Load data: `python load_to_postgres.py`
    - Run queries: `python main.py`
-   - *Superset setup will be added later.*
 
 3. **Project Structure**:
 ```plaintext
@@ -54,7 +52,7 @@ These insights help the hospital improve patient care, operational efficiency, a
 - **Database**: PostgreSQL
 - **Programming**: Python 3.12 (`pandas`, `sqlalchemy`, `psycopg2-binary`)
 - **Visualization**: Apache Superset (to be configured)
-- **Data Source**: Grocery Sales Database (Kaggle)
+- **Data Source**: Hospital Management Dataset (Kaggle)
 - **Version Control**: Git, GitHub
 
 ## ER Diagram
