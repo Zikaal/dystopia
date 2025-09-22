@@ -5,13 +5,13 @@ Welcome to Dystopia, where we’re transforming healthcare with data-driven insi
 ## Project Description
 
 We’re running analytics like:
-- **Sales Trends**: Catching peak sales months to plan better.
-- **Top Products**: Ranking items by revenue to stock what sells.
-- **Customer Insights**: Finding our loyal shoppers for targeted promotions.
-- **Regional Breakdowns**: Comparing sales by location to use resources wisely.
-- **Team Performance**: Seeing who’s bringing in the most sales to reward and train effectively.
+- **VIP Patients**: Identifying top patients by appointment frequency and billing to prioritize personalized care.
+- **Appointment Trends**: Analyzing monthly appointment patterns in 2023 to optimize staffing and resource allocation.
+- **Doctor Performance**: Ranking doctors by revenue and appointment volume to recognize high performers and inform training.
+- **Payment Method Insights**: Evaluating payment methods by revenue to streamline billing processes.
+- **Patient Retention**: Measuring repeat patient visits to enhance loyalty and engagement strategies.
 
-These insights help Dystopia’s stores stay ahead in a challenging retail world.
+These insights help the hospital improve patient care, operational efficiency, and financial performance in a competitive healthcare environment.
 
 ## Screenshot
 *Visualizations are on the way! We’ll share a dashboard screenshot soon.*  
