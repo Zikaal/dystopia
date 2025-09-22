@@ -25,7 +25,7 @@ These insights help Dystopia’s stores stay ahead in a challenging retail world
    - Apache Superset (for future visualizations).
 
 2. **Setup Steps**:
-   - Clone the repo: `git clone https://github.com/Zikaal/dystopia.git``
+   - Clone the repo: ``git clone https://github.com/Zikaal/dystopia.git``
    - Install dependencies: `pip install -r requirements.txt`
    - Load data: `python load_to_postgres.py`
    - Run queries: `python main.py`
