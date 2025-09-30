@@ -31,6 +31,13 @@ These insights help the hospital improve patient care, operational efficiency, a
 
 3. **Project Structure**:
 ```plaintext
+├── charts/
+│   ├── bar_top_doctors_revenue.png
+│   ├── barh_avg_treatment_cost.png
+│   ├── hist_bill_amounts.png
+│   ├── line_monthly_appointments.png
+│   ├── pie_payment_methods.png
+│   ├── scatter_patient_engagement.png
 ├── data/
 │   ├── patients.csv
 │   ├── doctors.csv
@@ -40,9 +47,14 @@ These insights help the hospital improve patient care, operational efficiency, a
 ├── images/
 │   ├── placeholder.png
 │   └── er_diagram.png
+├── exports/
+│   ├── billing_report.xlsx
 ├── load_to_postgres.py
 ├── main.py
+├── interactive_graph.py
+├── graph.py
 ├── queries.sql
+├── visual_query.sql
 ├── requirements.txt
 └── README.md
 ```
